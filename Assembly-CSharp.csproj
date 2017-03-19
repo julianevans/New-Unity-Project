@@ -46,7 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Kamerakontroll.cs" />
+     <Compile Include="Assets\Scripts\Snurranrotera.cs" />
      <Compile Include="Assets\Scripts\Spelbrädets tilt.cs" />
+     <Compile Include="Assets\Scripts\Svängdörr1.cs" />
+     <Compile Include="Assets\Scripts\svängdörrtrigger.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
